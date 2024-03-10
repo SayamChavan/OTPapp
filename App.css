@@ -1,0 +1,10 @@
+*{
+font-size:2vw;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+  background-color: rgb(245, 71, 8);
+}
+textarea{
+  resize:none;
+}
